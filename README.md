@@ -1,2 +1,2 @@
 # First-Repo
-Practice GitHub life styles.
+Practice GitHub.
